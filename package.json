@@ -1,0 +1,20 @@
+{
+  "name": "devtinder-backend",
+  "version": "1.0.0",
+  "description": "a backend for devTinder",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodeJs",
+    "javaScript",
+    "backend"
+  ],
+  "author": "Ashish Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
